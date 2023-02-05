@@ -1,0 +1,10 @@
+int i;
+chaine t;
+
+
+
+int main(){
+    i=3+t;
+    t=i+1;
+    
+}
